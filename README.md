@@ -1,50 +1,71 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Blurr
 
-## Get started
+## Project Description
 
-1. Install dependencies
+This project aims to develop a social app that fosters community engagement, anonymous interactions, and shared experiences. The app will leverage geolocation, user interests, and real-time interactions to create a dynamic and engaging platform, Blurr currently focuses on the front-end, offering the following functionalities:
 
-   ```bash
-   npm install
-   ```
+## Features
 
-2. Start the app
+- **Anonymous Messaging**: Users can send anonymous messages to specific individuals or to public groups.
+- **Shared Experiences**: Users can share their screens or content in real-time for others to join.  (backend functionality not yet implemented)
+- **Share Moment**:Users can upload and share pre-recorded videos.(backend functionality to be implemented in the future).
 
-   ```bash
-    npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+## Disclaimer:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Important Note: Currently, Blurr does not connect to real trading platforms and cannot execute actual trades. The order placement and GTC order features are purely for simulation purposes.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Getting Started
+While the backend functionality is under development, you can still explore the non-functional aspects of the app to familiarize yourself with Blurr's interface and features.
 
-## Get a fresh project
+## Prerequisites
 
-When you're ready, run:
+Please ensure you have Node.js and either npm or yarn installed on your machine. You can download and install them from the official websites:
+- [Node.js](https://nodejs.org/en)
+- npm (included with Node.js installation)
+- [yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
+
+## Steps to Set Up and Run the Project
+
+### Clone the Repository
+
+If you haven't already, clone the Blurr repository from GitHub using Git:
 
 ```bash
-npm run reset-project
+git clone https://github.com/WorkwithJagdeep/Blurr.git
+
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+```bash
+cd Blurr
+```
 
-## Learn more
+### Install Dependencies
 
-To learn more about developing your project with Expo, look at the following resources:
+Run the following command in your terminal to install all the project dependencies listed in the package.json file:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npm install
+```
+(If you're using yarn, the command would be yarn install.)
 
-## Join the community
 
-Join our community of developers creating universal apps.
+### Start the Development Server:
+Once the dependencies are installed, run the following command to start the development server:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+```bash
+ npx expo run:android 
+```
+
+## Usage
+
+Follow the instructions above to set up and run the Blurr application. Make sure to use the Expo Go app to scan the QR code and start the app on your mobile device.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit pull requests for review.
+
+## License
+
+This project is licensed under the MIT License.

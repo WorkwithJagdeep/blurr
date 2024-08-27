@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223397509059",
+    "project_id": "blurr-in",
+    "storage_bucket": "blurr-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223397509059:android:7510046b86b1705da12f76",
+        "android_client_info": {
+          "package_name": "com.blurr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWUhIvsdHy4PlfoEPkpUZ_pYne22kegs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
