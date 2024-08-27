@@ -7,6 +7,7 @@ const index = () => {
     <ScrollView
       style={{
         paddingVertical: 10,
+        backgroundColor: "black",
       }}
     >
       <View>

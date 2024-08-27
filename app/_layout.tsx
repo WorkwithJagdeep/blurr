@@ -25,7 +25,7 @@ export default function RootLayout() {
   useEffect(() => {
     if (loaded) {
       SplashScreen.hideAsync();
-      return router.push("/(chats)");
+      return router.push("/");
     }
   }, [loaded]);
 
