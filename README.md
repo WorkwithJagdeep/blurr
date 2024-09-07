@@ -14,9 +14,9 @@ This project aims to develop a social app that fosters community engagement, ano
 
 ## Screen Shots
 <div style="display:flex; align-items:center"> 
- <img src="https://github.com/user-attachments/assets/f92a24a3-b403-4e34-b9ce-a1876fb67bf4" width="25%" height="350px"/>
- <img src="https://github.com/user-attachments/assets/f38080d9-fccd-47e7-9101-c07391ee9ec5" width="25%" height="350px"/>
- <img src="https://github.com/user-attachments/assets/cfad053a-800d-4554-940a-afcd503be5ed" width="25%" height="350px"/>
+ <img src="https://github.com/user-attachments/assets/f92a24a3-b403-4e34-b9ce-a1876fb67bf4" width="25%" height="450px"/>
+ <img src="https://github.com/user-attachments/assets/f38080d9-fccd-47e7-9101-c07391ee9ec5" width="25%" height="450px"/>
+ <img src="https://github.com/user-attachments/assets/cfad053a-800d-4554-940a-afcd503be5ed" width="25%" height="450px"/>
 </div>
 
 ## Disclaimer:
