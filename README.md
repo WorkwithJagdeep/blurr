@@ -12,6 +12,13 @@ This project aims to develop a social app that fosters community engagement, ano
 - **Share Moment**:Users can upload and share pre-recorded videos.(backend functionality to be implemented in the future).
 
 
+## Screen Shots
+<div style="display:flex; align-items:center">
+ <img src="https://github.com/user-attachments/assets/cfad053a-800d-4554-940a-afcd503be5ed" width="25%" height="200px"/>
+ <img src="https://github.com/user-attachments/assets/f92a24a3-b403-4e34-b9ce-a1876fb67bf4" width="25%" height="200px"/>
+ <img src="https://github.com/user-attachments/assets/f38080d9-fccd-47e7-9101-c07391ee9ec5" width="25%" height="200px"/>
+</div>
+
 ## Disclaimer:
 
 Important Note: Currently, Blurr does not connect to real trading platforms and cannot execute actual trades. The order placement and GTC order features are purely for simulation purposes.
